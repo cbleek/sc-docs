@@ -1,18 +1,25 @@
 {
-    "name": "sc-docs",
-    "version": "0.0.1",
-    "author": "Carsten Bleek <bleek@cross-solution.de>",
-    "private": false,
-    "license": "MIT",
-    "release": {
-      "branches": ["master"]
-    },
-    "scripts": {
-        "docs:dev": "./node_modules/.bin/vuepress dev docs",
-        "docs:build": "./node_modules/.bin/vuepress build docs"
-    },
-    "devDependencies": {
-        "semantic-release": "^17.0.4",
-        "vuepress": "^1.2.0"
-    }
+  "name": "sc-docs",
+  "version": "0.0.0-development",
+  "author": "Carsten Bleek <bleek@cross-solution.de>",
+  "private": false,
+  "license": "MIT",
+  "release": {
+    "branches": [
+      "master"
+    ]
+  },
+  "scripts": {
+    "docs:dev": "./node_modules/.bin/vuepress dev docs",
+    "docs:build": "./node_modules/.bin/vuepress build docs",
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.0.4",
+    "vuepress": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbleek/sc-docs.git"
+  }
 }

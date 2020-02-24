@@ -33,6 +33,8 @@ Der [Europass](https://europass.cedefop.europa.eu/de) kennt die Sprachlevel A1, 
 
 ## Authentifikation
 
+Authentigikation mit sozialen Netzen (OAuth)
+
 ## Sonstiges
 
 ### Download per PDF

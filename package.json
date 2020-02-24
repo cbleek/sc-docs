@@ -1,6 +1,6 @@
 {
   "name": "sc-docs",
-  "version": "0.0.0-development",
+  "version": "0.0.0-semantically-released",
   "author": "Carsten Bleek <bleek@cross-solution.de>",
   "private": false,
   "license": "MIT",

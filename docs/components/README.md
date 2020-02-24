@@ -29,8 +29,11 @@ ein Gehalt benötigt 3 Werte. Einen Betrag, die Währung und einen Zeitraum.
 
 ### Sprachkenntnisse
 
+Der [Europass](https://europass.cedefop.europa.eu/de) kennt die Sprachlevel A1, A2, B1, B2, C1 und C2.
+
 ## Authentifikation
 
 ## Sonstiges
 
 ### Download per PDF
+

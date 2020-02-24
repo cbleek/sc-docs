@@ -1,4 +1,5 @@
 module.exports = {
+ base: '/',
  title: 'Smart Composer',
  description: 'Manager für Lebensläufe',
  themeConfig: {

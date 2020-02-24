@@ -3,12 +3,13 @@
     "version": "0.0.1",
     "author": "Carsten Bleek <bleek@cross-solution.de>",
     "private": false,
+    "license": "MIT",
     "release": {
       "branches": ["master"]
     },
     "scripts": {
-        "docs:dev": "./node_modules/.bin/vuepress dev",
-        "docs:build": "./node_modules/.bin/vuepress build"
+        "docs:dev": "./node_modules/.bin/vuepress dev docs",
+        "docs:build": "./node_modules/.bin/vuepress build docs"
     },
     "devDependencies": {
         "semantic-release": "^17.0.4",

@@ -1,5 +1,5 @@
 module.exports = {
- base: '/',
+ base: '/sc-docs/',
  title: 'Smart Composer',
  description: 'Manager für Lebensläufe',
  themeConfig: {

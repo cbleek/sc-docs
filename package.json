@@ -1,0 +1,17 @@
+{
+    "name": "sc-docs",
+    "version": "0.0.1",
+    "author": "Carsten Bleek <bleek@cross-solution.de>",
+    "private": false,
+    "release": {
+      "branches": ["master"]
+    },
+    "scripts": {
+        "docs:dev": "./node_modules/.bin/vuepress dev",
+        "docs:build": "./node_modules/.bin/vuepress build"
+    },
+    "devDependencies": {
+        "semantic-release": "^17.0.4",
+        "vuepress": "^1.2.0"
+    }
+}
